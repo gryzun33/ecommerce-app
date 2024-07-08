@@ -47,7 +47,7 @@
 1. Clone the repo
 
 ```sh
-  git clone https://github.com/skayer81/eCommerce-Application
+  git clone https://github.com/gryzun33/ecommerce-app.git
 ```
 
 2. Install NPM packages
